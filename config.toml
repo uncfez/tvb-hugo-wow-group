@@ -1,0 +1,5 @@
+# Option 1 (recommended): adding the theme as a hugo module
+theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
+
+# Option 2: cloning/copying the theme files
+# theme = "bilberry-hugo-theme"
